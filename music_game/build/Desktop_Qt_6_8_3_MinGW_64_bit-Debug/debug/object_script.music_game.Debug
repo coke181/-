@@ -1,0 +1,14 @@
+debug/edit.o
+debug/main.o
+debug/music.o
+debug/Note_generator.o
+debug/rg.o
+debug/Setting.o
+debug/widget.o
+debug/qrc_img.o
+debug/moc_edit.o
+debug/moc_music.o
+debug/moc_Note_generator.o
+debug/moc_rg.o
+debug/moc_Setting.o
+debug/moc_widget.o
